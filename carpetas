@@ -1,0 +1,16 @@
+gestion-clientes-python/
+│── data/                  # Carpeta donde se guardarán los archivos de clientes
+│── scripts/               # Posibles scripts auxiliares
+│── main.py                # Código principal
+│── clientes.py            # Módulo para manejar clientes
+│── utils.py               # Funciones auxiliares
+│── .github/
+│   └── workflows/         # Flujos de GitHub Actions
+│       ├── crear_cliente.yml
+│       ├── actualizar_cliente.yml
+│       ├── consultar_cliente.yml
+│── README.md
+│── requirements.txt       # Dependencias
+│── documentacion/         # Contendrá diagrama de flujo y pseudocódigo
+│── video/                 # Carpeta para alojar el video demostrativo
+
